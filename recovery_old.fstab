@@ -1,0 +1,29 @@
+/modem		vfat		/dev/block/mmcblk0p1
+/sbl1		emmc		/dev/block/mmcblk0p2
+/sbl2		emmc		/dev/block/mmcblk0p3
+/sbl3		emmc		/dev/block/mmcblk0p4
+/aboot		emmc		/dev/block/mmcblk0p5
+/rpm		emmc		/dev/block/mmcblk0p6	
+/boot		emmc		/dev/block/mmcblk0p7
+/tz		emmc		/dev/block/mmcblk0p8
+/pad		emmc		/dev/block/mmcblk0p9
+/modemst1		emmc		/dev/block/mmcblk0p10
+/modemst2		emmc		/dev/block/mmcblk0p11
+/rawdata		emmc		/dev/block/mmcblk0p12
+/preload		emmc		/dev/block/mmcblk0p13
+/system		ext4		/dev/block/mmcblk0p14
+/persist		emmc		/dev/block/mmcblk0p15
+/cache		ext4		/dev/block/mmcblk0p16
+/tombstones		ext4		/dev/block/mmcblk0p17
+/misc		emmc		/dev/block/mmcblk0p18
+/recovery		emmc		/dev/block/mmcblk0p19
+/m9kefs1		emmc		/dev/block/mmcblk0p20
+/m9kefs2		emmc		/dev/block/mmcblk0p21
+/m9kefs3		emmc		/dev/block/mmcblk0p22
+/DDR		emmc		/dev/block/mmcblk0p23
+/log		emmc		/dev/block/mmcblk0p24
+/fota		emmc		/dev/block/mmcblk0p25
+/data		ext4		/dev/block/mmcblk0p26
+/external_sd		vfat		/dev/block/mmcblk1p1
+/usb-otg    vfat		/dev/block/sda1		/dev/block/sda
+

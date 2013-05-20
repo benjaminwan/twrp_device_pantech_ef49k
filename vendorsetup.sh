@@ -1,0 +1,2 @@
+add_lunch_combo cm_ef49k-userdebug
+add_lunch_combo cm_ef49k-eng
